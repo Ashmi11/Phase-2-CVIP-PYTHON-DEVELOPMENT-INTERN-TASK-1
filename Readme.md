@@ -26,7 +26,7 @@ How to Run
 
 Clone the Repository:
 
-git clone https://github.com/your-username/typing-speed-tester.git
+git clone https://github.com/your-username/typing-speed-tester.git   
 cd typing-speed-tester
 
 
