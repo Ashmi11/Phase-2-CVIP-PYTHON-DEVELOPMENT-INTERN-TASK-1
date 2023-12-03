@@ -1,4 +1,4 @@
-Purpose
+Purpose: 
 The Typing Speed Tester is a Python application designed to help users practice their typing skills. 
 It generates random text for users to type, calculates their typing speed in words per minute (WPM),
 and provides feedback on typing accuracy.
